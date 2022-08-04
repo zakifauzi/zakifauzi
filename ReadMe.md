@@ -6,7 +6,7 @@ Currently looking for a job as a front end developer.<br><br>Web styling skills 
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dzaki-fauzi-mubarok-71b08b237/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzaki-fauzi-mubarok-71b08b237/)
 
 # 💻 Tech Stack:
 
