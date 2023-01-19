@@ -1,4 +1,4 @@
-Hi there, name is Dzaki Fauzi Mubarok, nice to meet ya
+Hi there, name is Dzaki Fauzi Mubarok
 
 # 💫 About Me:
 
